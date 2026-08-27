@@ -3,7 +3,7 @@
 An end-to-end Machine Learning web application built using **Python**, **scikit-learn**, and **Streamlit** to predict house prices based on the Ames Housing dataset features.
 
 ## 🔗 Live Demo
-Check out the live web application here: [Ames Housing Price Predictor](YOUR_STREAMLIT_URL_HERE)
+Check out the live web application here: [Ames Housing Price Predictor]([YOUR_STREAMLIT_URL_HERE](https://ames-housing-prediction-bbbapltjmtedmvcu7hxtmb.streamlit.app/))
 
 ## 📌 Project Overview
 - **Data Preprocessing & Cleaning:** Handled missing values, encoded categorical features, and scaled numerical attributes.
